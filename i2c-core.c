@@ -1,11 +1,12 @@
 //how are you 2
 //how are you 1
-//linux 2
+//nihao 2
+//nihao 1
+///linux 2
 //linux 1
 //windows update 2
 //windows update 1
 ////first changes
->>>>>>> 35669ed4be49031ae0f0548e1588372127c02de3
 //second changes
 /* i2c-core.c - a device driver for the iic-bus interface		     */
 /* ------------------------------------------------------------------------- */
