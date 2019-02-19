@@ -1,4 +1,5 @@
-//first changes
+//windows update 1
+////first changes
 //second changes
 /* i2c-core.c - a device driver for the iic-bus interface		     */
 /* ------------------------------------------------------------------------- */
